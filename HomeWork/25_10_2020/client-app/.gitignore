@@ -44,9 +44,3 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
-
-/client-app/src/app/users/resetpassword/resetpassword.component.ts
-/client-app/src/app/users/resetpassword/resetpassword.component.spec.ts
-/client-app/src/app/users/resetpassword/resetpassword.component.scss
-/client-app/src/app/users/resetpassword/resetpassword.component.html
-/client-app/src/app/users/resetpassword
